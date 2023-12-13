@@ -116,7 +116,7 @@ endmodule
 
 ## PARALLEL INPUT SERIAL OUTPUT:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Exercise-09-Shift-registers-using-verilog-/main/piso.png)
 
 ## PARALLEL INPUT PARALLEL OUTPUT:
 
